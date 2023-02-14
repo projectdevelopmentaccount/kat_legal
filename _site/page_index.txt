@@ -1,3 +1,0 @@
-landing = translation
-elements.md = about me
-generic.md = legal
