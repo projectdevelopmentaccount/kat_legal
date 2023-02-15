@@ -43,7 +43,7 @@ Below you can find the languages that I personally translate from. Feel free to 
 	</section>
 	<section>
 		<a href="elements.html" class="image">
-			<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="top center" />
+			<img src="{{ site.baseurl }}{% link assets/images/pic09.jpg %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -59,7 +59,7 @@ Below you can find the languages that I personally translate from. Feel free to 
 	</section>
 	<section>
 		<a href="elements.html" class="image">
-			<img src="{% link assets/images/pic10.jpg %}" alt="" data-position="25% 25%" />
+			<img src="{{ site.baseurl }}{% link assets/images/pic10.jpg %}" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
