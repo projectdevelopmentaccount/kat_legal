@@ -25,7 +25,9 @@ Below you can find the languages that I personally translate from. Feel free to 
 <section id="two" class="spotlights">
 	<section>
 		<a href="elements.html" class="image">
-			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
+			<!-- <img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" /> -->
+			<img src="{{ site.baseurl }}{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
+
 		</a>
 		<div class="content">
 			<div class="inner">
