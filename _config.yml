@@ -3,7 +3,7 @@ title: Legal Services
 subtitle: And Translation
 email: katerina.manolea@gmail.com
 description: KATERINA MANOLEA (ΚΑΤΕΡΙΝΑ ΜΑΝΩΛΕΑ) LAWYER AND TRANSLATOR IN THESSALONIKI,<br /> Danish, French, Italian and English
-baseurl: "/kat_legal" # the subpath of your site, e.g. /blog
+#baseurl: "/kat_legal" # the subpath of your site, e.g. /blog
 url: https://www.notabene.gr # the base hostname & protocol for your site
 author:
 #street_address: 1234 Somewhere Road
